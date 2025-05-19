@@ -1,1 +1,74 @@
 
+📜 Conditions Générales d’Utilisation (CGU)
+Dernière mise à jour : 19 mai 2025
+
+Bienvenue dans notre application mobile. En utilisant cette application, vous acceptez les présentes Conditions Générales d’Utilisation. Veuillez les lire attentivement.
+
+1. Objet de l’application
+Cette application permet aux utilisateurs de consulter des contenus (ex : publicités), de gagner des récompenses selon certaines règles, et de gérer leur profil via un système d’authentification sécurisé (Firebase Auth).
+
+2. Accès et inscription
+L’accès à certaines fonctionnalités nécessite la création d’un compte via Firebase Authentication.
+
+Vous devez fournir des informations exactes (adresse email valide, etc.).
+
+Toute tentative de fraude, d’usurpation d’identité ou de contournement des règles entraînera la suspension du compte.
+
+3. Publicités et services tiers
+L’application utilise des services tiers pour afficher de la publicité et améliorer l’expérience :
+
+Google AdMob pour les annonces
+
+Firebase pour la base de données, l’authentification et le stockage
+
+Supabase pour le traitement de certaines données
+
+ipwho.is pour détecter votre pays via votre adresse IP
+
+L’utilisation de ces services est soumise à leurs propres conditions.
+
+4. Géolocalisation par IP
+Votre adresse IP est utilisée pour estimer votre pays et adapter les offres de l'application. Aucune géolocalisation GPS n’est effectuée.
+
+5. Récompenses et paiements
+L’application propose un système de récompenses (ex. : crédits, argent réel) selon votre activité (nombre de pubs vues, parrainage, etc.).
+
+Paiements :
+Les paiements sont effectués via PayPal, à l’adresse que vous fournissez.
+
+Vous devez fournir une adresse PayPal valide, correspondant à votre identité.
+
+Les virements peuvent prendre jusqu’à 7 jours ouvrés après validation.
+
+Des conditions minimales peuvent s’appliquer (ex. : montant minimum, délai, vérification).
+
+Les frais PayPal éventuels ne sont pas à notre charge.
+
+En cas de fraude, triche ou comportement abusif, nous nous réservons le droit de suspendre ou annuler les récompenses.
+
+6. Limites de responsabilité
+L’application est fournie "en l’état", sans garantie de disponibilité permanente.
+
+Nous ne sommes pas responsables des interruptions, erreurs techniques ou bugs.
+
+L’utilisation de l’application est faite sous votre propre responsabilité.
+
+7. Suspension ou suppression de compte
+Nous pouvons suspendre ou supprimer un compte dans les cas suivants :
+
+Non-respect des présentes CGU
+
+Activités frauduleuses (multi-comptes, scripts, falsification de données, etc.)
+
+Utilisation abusive des services (spam, contournement de limites, etc.)
+
+8. Données personnelles
+Vos données sont traitées selon notre Politique de confidentialité (à lier dans ton app).
+Vous pouvez à tout moment demander la suppression de vos données via notre formulaire de contact ou par email.
+
+9. Modifications
+Nous nous réservons le droit de modifier ces CGU à tout moment. Les utilisateurs seront informés en cas de changements majeurs.
+
+10. Contact
+Pour toute question, vous pouvez nous contacter à :
+📧 [Ton adresse email ici]
