@@ -2,73 +2,86 @@
 📜 Conditions Générales d’Utilisation (CGU)
 Dernière mise à jour : 19 mai 2025
 
-Bienvenue dans notre application mobile. En utilisant cette application, vous acceptez les présentes Conditions Générales d’Utilisation. Veuillez les lire attentivement.
+Bienvenue sur notre application mobile. En accédant et en utilisant cette application, vous acceptez les présentes Conditions Générales d’Utilisation. Veuillez les lire attentivement.
 
 1. Objet de l’application
-Cette application permet aux utilisateurs de consulter des contenus (ex : publicités), de gagner des récompenses selon certaines règles, et de gérer leur profil via un système d’authentification sécurisé (Firebase Auth).
+Cette application permet aux utilisateurs de consulter des contenus (notamment des publicités), de gagner des récompenses selon certaines règles définies, et de gérer leur profil à l’aide d’un système d’authentification sécurisé (Firebase Auth).
 
-2. Accès et inscription
-L’accès à certaines fonctionnalités nécessite la création d’un compte via Firebase Authentication.
+2. Accès à l’application et inscription
+Certaines fonctionnalités nécessitent la création d’un compte via Firebase Authentication.
+En créant un compte, vous vous engagez à :
 
-Vous devez fournir des informations exactes (adresse email valide, etc.).
+Fournir des informations exactes, complètes et à jour (ex. : adresse email valide).
 
-Toute tentative de fraude, d’usurpation d’identité ou de contournement des règles entraînera la suspension du compte.
+Ne pas créer plusieurs comptes sans autorisation.
+
+Ne pas usurper l’identité d’un tiers.
+
+En cas de fraude, de tentative de contournement des règles ou de comportement abusif, nous nous réservons le droit de suspendre ou de supprimer votre compte sans préavis.
 
 3. Publicités et services tiers
-L’application utilise des services tiers pour afficher de la publicité et améliorer l’expérience :
+L’application utilise des services tiers pour afficher de la publicité et améliorer l’expérience utilisateur. En utilisant l’application, vous acceptez que ces services puissent collecter certaines données techniques (ex. : identifiants publicitaires, informations sur l’appareil, etc.) conformément à leurs politiques de confidentialité respectives.
 
-Google AdMob pour les annonces
+Nous utilisons notamment les services suivants :
 
-Firebase pour la base de données, l’authentification et le stockage
+Google AdMob : pour la diffusion des publicités.
 
-Supabase pour le traitement de certaines données
+Médiation publicitaire via AdMob : AdMob peut faire appel à d'autres partenaires publicitaires, comme Unity Ads, afin d’optimiser la diffusion des annonces. Ces partenaires peuvent également collecter des données à des fins publicitaires.
 
-ipwho.is pour détecter votre pays via votre adresse IP
+Firebase : pour l’authentification, la base de données et le stockage.
 
-L’utilisation de ces services est soumise à leurs propres conditions.
+Supabase : pour le traitement de certaines données.
 
-4. Géolocalisation par IP
-Votre adresse IP est utilisée pour estimer votre pays et adapter les offres de l'application. Aucune géolocalisation GPS n’est effectuée.
+ipwho.is : pour estimer votre pays via votre adresse IP.
+
+La liste des partenaires susceptibles d’être impliqués dans la médiation publicitaire d’AdMob est consultable à cette adresse :
+Unity ads 
+
+Chaque service est soumis à ses propres conditions d’utilisation et politiques de confidentialité, que vous acceptez en utilisant cette application..
+
+4. Localisation via l’adresse IP
+Nous utilisons votre adresse IP uniquement pour estimer votre pays et adapter certaines offres ou fonctionnalités.
+Aucune géolocalisation GPS n’est effectuée.
 
 5. Récompenses et paiements
-L’application propose un système de récompenses (ex. : crédits, argent réel) selon votre activité (nombre de pubs vues, parrainage, etc.).
+L’application propose un système de récompenses (ex. : crédits, argent réel) basé sur votre activité (nombre de publicités vues, parrainages, etc.).
 
-Paiements :
-Les paiements sont effectués via PayPal, à l’adresse que vous fournissez.
+Conditions de paiement :
+Les paiements sont effectués via PayPal à l’adresse que vous fournissez.
 
-Vous devez fournir une adresse PayPal valide, correspondant à votre identité.
+Vous devez indiquer une adresse PayPal valide, correspondant à votre identité.
 
 Les virements peuvent prendre jusqu’à 7 jours ouvrés après validation.
 
-Des conditions minimales peuvent s’appliquer (ex. : montant minimum, délai, vérification).
+Des conditions minimales peuvent s’appliquer (montant minimum, délai d’attente, vérification d’identité).
 
-Les frais PayPal éventuels ne sont pas à notre charge.
+Les frais PayPal éventuels sont à votre charge.
 
-En cas de fraude, triche ou comportement abusif, nous nous réservons le droit de suspendre ou annuler les récompenses.
+En cas de fraude ou de comportement abusif, nous nous réservons le droit de refuser ou annuler les paiements.
 
-6. Limites de responsabilité
-L’application est fournie "en l’état", sans garantie de disponibilité permanente.
+6. Limitation de responsabilité
+L’application est fournie "en l’état", sans garantie de disponibilité, de performance ou d’absence d’erreurs.
 
-Nous ne sommes pas responsables des interruptions, erreurs techniques ou bugs.
-
-L’utilisation de l’application est faite sous votre propre responsabilité.
+Nous ne saurions être tenus responsables des interruptions de service, erreurs techniques, pertes de données ou tout autre problème lié à l’utilisation de l’application.
 
 7. Suspension ou suppression de compte
-Nous pouvons suspendre ou supprimer un compte dans les cas suivants :
+Nous nous réservons le droit de suspendre ou supprimer tout compte utilisateur dans les cas suivants :
 
-Non-respect des présentes CGU
+Violation des présentes CGU.
 
-Activités frauduleuses (multi-comptes, scripts, falsification de données, etc.)
+Activité frauduleuse (multi-comptes, triche, automatisation, etc.).
 
-Utilisation abusive des services (spam, contournement de limites, etc.)
+Utilisation abusive des services (spam, exploitation de failles, etc.).
 
 8. Données personnelles
-Vos données sont traitées selon notre Politique de confidentialité (à lier dans ton app).
-Vous pouvez à tout moment demander la suppression de vos données via notre formulaire de contact ou par email.
+Vos données sont traitées conformément à notre Politique de confidentialité (lien à insérer dans l’application).
 
-9. Modifications
-Nous nous réservons le droit de modifier ces CGU à tout moment. Les utilisateurs seront informés en cas de changements majeurs.
+Vous pouvez à tout moment demander la suppression de vos données via notre formulaire de contact ou en envoyant un email à notre support.
+
+9. Modifications des CGU
+Nous nous réservons le droit de modifier ces CGU à tout moment.
+En cas de changements importants, vous serez informé directement via l’application ou par email.
 
 10. Contact
-Pour toute question, vous pouvez nous contacter à :
-📧 [Ton adresse email ici]
+Pour toute question ou demande d’information, vous pouvez nous contacter à l’adresse suivante :
+📧 dzvellox@gmail.com
