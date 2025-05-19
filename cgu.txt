@@ -1,88 +1,249 @@
-
-📜 Conditions Générales d’Utilisation (CGU)
+Conditions Générales d’Utilisation (CGU)
 Dernière mise à jour : 19 mai 2025
 
-Bienvenue sur notre application mobile. En accédant et en utilisant cette application, vous acceptez les présentes Conditions Générales d’Utilisation. Veuillez les lire attentivement.
+1. Définitions
+Dans les présentes Conditions Générales d’Utilisation :
 
-1. Objet de l’application
-Cette application permet aux utilisateurs de consulter des contenus (notamment des publicités), de gagner des récompenses selon certaines règles définies, et de gérer leur profil à l’aide d’un système d’authentification sécurisé (Firebase Auth).
+« Application » désigne l’application mobile [Nom de ton appli] publiée sur Google Play et/ou App Store.
 
-2. Accès à l’application et inscription
-Certaines fonctionnalités nécessitent la création d’un compte via Firebase Authentication.
-En créant un compte, vous vous engagez à :
+« Vous » ou « Utilisateur » désigne toute personne physique ou morale utilisant l’Application.
 
-Fournir des informations exactes, complètes et à jour (ex. : adresse email valide).
+« Nous », « Notre » désigne [ton nom ou la raison sociale si tu en as une], responsable de l’Application.
 
-Ne pas créer plusieurs comptes sans autorisation.
+« Services tiers » désigne tous les outils externes intégrés à l’Application (Firebase, AdMob, Supabase, ipwho.is, etc.).
 
-Ne pas usurper l’identité d’un tiers.
+« Compte » désigne l’espace personnel créé lors de l’authentification via Firebase Authentication.
 
-En cas de fraude, de tentative de contournement des règles ou de comportement abusif, nous nous réservons le droit de suspendre ou de supprimer votre compte sans préavis.
+2. Objet
+Earn Moneu permet à l’Utilisateur :
 
-3. Publicités et services tiers
-L’application utilise des services tiers pour afficher de la publicité et améliorer l’expérience utilisateur. En utilisant l’application, vous acceptez que ces services puissent collecter certaines données techniques (ex. : identifiants publicitaires, informations sur l’appareil, etc.) conformément à leurs politiques de confidentialité respectives.
+De consulter des contenus publicitaires.
 
-Nous utilisons notamment les services suivants :
+De gagner des récompenses (crédits, argent réel), sous réserve de remplir les conditions définies dans l’Application.
 
-Google AdMob : pour la diffusion des publicités.
+De gérer son compte utilisateur via Firebase Authentication.
+L’Utilisateur reçoit une licence non-exclusive, non-transférable et révocable pour utiliser l’Application selon les présentes CGU.
 
-Médiation publicitaire via AdMob : AdMob peut faire appel à d'autres partenaires publicitaires, comme Unity Ads, afin d’optimiser la diffusion des annonces. Ces partenaires peuvent également collecter des données à des fins publicitaires.
+3. Acceptation des CGU
+En téléchargeant, installant ou utilisant l’Application, vous acceptez intégralement ces CGU. Si vous n’êtes pas d’accord avec l’une des clauses, veuillez ne pas utiliser l’Application.
 
-Firebase : pour l’authentification, la base de données et le stockage.
+4. Conditions d’inscription et compte utilisateur
+4.1. Création de compte
 
-Supabase : pour le traitement de certaines données.
+Vous devez avoir au moins l’âge légal requis par votre pays pour accepter ces CGU (16 ans en France, ou plus selon la législation locale).
 
-ipwho.is : pour estimer votre pays via votre adresse IP.
+Vous devez fournir des informations véridiques et à jour (adresse email, nom, etc.). Toute fausse déclaration peut entraîner la suspension définitive de votre compte.
 
-L’application peut contenir des publicités ou des liens qui redirigent vers des sites web tiers externes. Nous ne contrôlons pas ces sites externes et ne pouvons être tenus responsables de leur contenu ou de leur politique de confidentialité.
+Vous êtes seul responsable de la confidentialité de vos identifiants (email, mot de passe). Toute activité réalisée depuis votre compte est réputée avoir été effectuée par vous.
 
-La liste des partenaires susceptibles d’être impliqués dans la médiation publicitaire d’AdMob est consultable à cette adresse :
-Unity ads
+4.2. Utilisation du compte
 
-Chaque service est soumis à ses propres conditions d’utilisation et politiques de confidentialité, que vous acceptez en utilisant cette application.
-4. Localisation via l’adresse IP
-Nous utilisons votre adresse IP uniquement pour estimer votre pays et adapter certaines offres ou fonctionnalités.
-Aucune géolocalisation GPS n’est effectuée.
+Vous vous engagez à ne pas partager, louer ou transférer votre compte.
 
-5. Récompenses et paiements
-L’application propose un système de récompenses (ex. : crédits, argent réel) basé sur votre activité (nombre de publicités vues, parrainages, etc.).
+La création de comptes multiples pour contourner les règles est strictement interdite.
 
-Conditions de paiement :
-Les paiements sont effectués via PayPal à l’adresse que vous fournissez.
-
-Vous devez indiquer une adresse PayPal valide, correspondant à votre identité.
-
-Les virements peuvent prendre jusqu’à 7 jours ouvrés après validation.
-
-Des conditions minimales peuvent s’appliquer (montant minimum, délai d’attente, vérification d’identité).
-
-Les frais PayPal éventuels sont à votre charge.
-
-En cas de fraude ou de comportement abusif, nous nous réservons le droit de refuser ou annuler les paiements.
-
-6. Limitation de responsabilité
-L’application est fournie "en l’état", sans garantie de disponibilité, de performance ou d’absence d’erreurs.
-
-Nous ne saurions être tenus responsables des interruptions de service, erreurs techniques, pertes de données ou tout autre problème lié à l’utilisation de l’application.
-
-7. Suspension ou suppression de compte
-Nous nous réservons le droit de suspendre ou supprimer tout compte utilisateur dans les cas suivants :
+Nous nous réservons le droit de suspendre ou supprimer votre compte, temporairement ou définitivement, en cas de :
 
 Violation des présentes CGU.
 
-Activité frauduleuse (multi-comptes, triche, automatisation, etc.).
+Suspicion de fraude, multi-comptes ou contournement des mécanismes d’obtention de récompenses.
 
-Utilisation abusive des services (spam, exploitation de failles, etc.).
+Comportement nuisible (spam, harcèlement, automatisation, etc.).
 
-8. Données personnelles
-Vos données sont traitées conformément à notre Politique de confidentialité (lien à insérer dans l’application).
+5. Propriété intellectuelle
+5.1. Contenus et code
 
-Vous pouvez à tout moment demander la suppression de vos données via notre formulaire de contact ou en envoyant un email à notre support.
+L’Application, son code source, ses logos, textes, icônes, images, graphismes, etc., sont notre propriété exclusive ou celle de nos partenaires.
 
-9. Modifications des CGU
+Toute reproduction, représentation, modification, distribution partielle ou totale sans autorisation écrite préalable est strictement interdite.
+
+5.2. Licence d’utilisation
+
+Nous vous concédons une licence personnelle, non-exclusive, incessible et révocable pour installer et utiliser l’Application sur un unique appareil compatible.
+
+Toute exploitation commerciale non autorisée est prohibée.
+
+6. Services tiers et / ou publicité
+6.1. Intégration de services tiers
+
+L’Application utilise des SDK et API de services tels que Firebase (Google LLC), Supabase, AdMob (Google LLC), ipwho.is, etc.
+
+Chaque service tiers est régi par sa propre politique de confidentialité et ses conditions d’utilisation [liens à insérer]. Vous les acceptez tacitement en utilisant l’Application.
+
+6.2. Publicités et médiation
+
+Nous diffusons des publicités via Google AdMob. AdMob peut faire appel à des partenaires (Unity Ads, etc.) pour optimiser la diffusion. Ces partenaires peuvent être amenés à collecter des données (identifiants publicitaires, données d’appareil) afin de cibler les annonces.
+
+Nous ne sommes pas responsables du contenu, de la qualité ou de la disponibilité des publicités affichées.
+
+6.3. Données collectées par les services tiers
+
+Les données techniques collectées comprennent : identifiant publicitaire, modèle d’appareil, version d’OS, etc.
+
+Les services tiers peuvent utiliser des cookies ou technologies similaires pour mesurer la performance publicitaire et analyser l’usage.
+
+Vous pouvez gérer vos préférences de publicité personnalisée via les paramètres Google ou le SDK de consentement intégré à l’Application.
+
+7. Collecte et traitement des données personnelles
+7.1. Données collectées
+
+Firebase Authentication : adresse email, UID Firebase.
+
+Firebase Firestore / Supabase : données d’usage (nombre de publicités vues, crédits accumulés, historique de connexion).
+
+Adresse IP : utilisée uniquement pour déterminer votre pays via ipwho.is. Aucune géolocalisation précise (GPS) n’est effectuée.
+
+Informations techniques : modèle d’appareil, version de l’application, système d’exploitation, etc.
+
+7.2. Finalités du traitement
+
+Gérer votre compte et sécuriser l’authentification.
+
+Calculer et attribuer vos récompenses.
+
+Adapter l’interface et les offres en fonction de votre pays.
+
+Optimiser le service, détecter les fraudes, et améliorer la qualité de l’Application.
+
+Afficher des publicités éventuellement personnalisées (si vous y consentez).
+
+7.3. Durée de conservation
+
+Données d’authentification : conservées tant que le compte est actif, puis supprimées dans un délai de 2 ans après suppression du compte.
+
+Données de paiement : conservées jusqu’à la réalisation du paiement via PayPal, puis anonymisées ou supprimées après 1 an.
+
+Données d’usage : conservées pendant 3 ans pour les besoins statistiques et de lutte contre la fraude.
+
+7.4. Droits des utilisateurs
+Conformément au RGPD (UE) et autres lois applicables, vous disposez des droits suivants :
+
+Droit d’accès : obtenir la copie des données personnelles vous concernant.
+
+Droit de rectification : demander la correction de données inexactes ou incomplètes.
+
+Droit à l’effacement : demander la suppression de vos données dans les limites légales.
+
+Droit à la portabilité : recevoir les données personnelles que vous avez fournies dans un format structuré.
+
+Droit d’opposition : vous opposer au traitement, pour motifs légitimes.
+
+Droit de retirer votre consentement : si le traitement est basé sur le consentement (publicité personnalisée).
+
+Pour exercer ces droits, envoyez un email à :
+📧 DPO@example.com (ou l’adresse que tu souhaites indiquer).
+Vous pouvez également introduire une réclamation auprès de la CNIL : www.cnil.fr.
+
+8. Récompenses et paiements
+8.1. Condition d’obtention des récompenses
+
+Les récompenses (crédits, argent réel) sont calculées en fonction du nombre de publicités vues, du parrainage, ou d’autres actions validées.
+
+Toute tentative de triche (multi-comptes, scripts, altération des données) entraîne l’annulation automatique de la récompense.
+
+8.2. Paiements PayPal
+
+Les paiements sont effectués via PayPal à l’adresse fournie par l’utilisateur.
+
+Vous devez communiquer votre adresse PayPal exacte et correspondante à votre identité.
+
+Les virements peuvent prendre jusqu’à 7 jours ouvrés après validation de la demande.
+
+Un montant minimum de [X €] pourra être requis pour initier un paiement.
+
+En cas de non-respect des règles ou suspicion de fraude, nous nous réservons le droit de refuser, annuler ou rétrograder un paiement.
+
+Les frais PayPal (frais de transfert, conversion de devise, etc.) sont à la charge de l’utilisateur.
+
+Aucune demande de remboursement de récompense n’est possible une fois le paiement validé et exécuté.
+
+8.3. Conservation des données de paiement
+
+Vos informations PayPal sont stockées de manière chiffrée et conservées uniquement le temps nécessaire à la réalisation du paiement, puis supprimées ou anonymisées sous 1 an.
+
+9. Limitation de responsabilité
+
+L’Application est fournie « en l’état » sans aucune garantie de disponibilité, de performance ou d’absence d’erreurs.
+
+Nous déclinons toute responsabilité :
+
+Pour les interruptions, dysfonctionnements ou pertes de données.
+
+Pour toute utilisation des informations ou conseils diffusés via l’Application.
+
+Pour la qualité, la fiabilité ou la légalité des services tiers (publicités, redirections, etc.).
+
+L’Utilisateur reconnaît utiliser l’Application à ses risques et périls.
+
+En cas de dommage direct prouvé, notre responsabilité totale est limitée au montant des éventuels frais de transaction facturés sur l’Application (ou, à défaut, une somme forfaitaire de 50 €).
+
+10. Indemnisation
+Vous vous engagez à indemniser et défendre [Nom de ton appli] contre toute réclamation, action ou procédure résultant de :
+
+Votre utilisation non conforme de l’Application.
+
+La violation des présentes CGU.
+
+Toute atteinte aux droits de tiers (propriété intellectuelle, droits à l’image, diffamation, etc.).
+
+11. Durée, suspension et résiliation
+11.1. Durée
+
+Les présentes CGU s’appliquent dès la première utilisation de l’Application et demeurent en vigueur tant que l’Utilisateur continue d’y accéder.
+
+11.2. Suspension ou résiliation par l’Utilisateur
+
+Vous pouvez cesser d’utiliser l’Application à tout moment en désinstallant l’application et en demandant la suppression de votre compte via les paramètres.
+
+11.3. Suspension ou résiliation par l’Éditeur
+
+Nous pouvons suspendre ou supprimer votre accès à l’Application (ou votre compte) en cas de :
+
+Non-respect des présentes CGU.
+
+Activités frauduleuses, multi-comptes ou exploitation de bugs.
+
+Violation des lois applicables ou atteinte aux droits d’autrui.
+
+En cas de suspension, une notification sera envoyée par email. Vous disposez d’un délai de 7 jours pour contester ou vous conformer.
+
+En cas de résiliation définitive, toutes vos données seront supprimées, sauf celles dont la conservation est imposée par la loi (historique de transactions, logs).
+
+12. Dispositions relatives à la preuve
+
+Les registres informatiques conservés dans nos systèmes constituent la preuve des communications, commandes, paiements et transactions entre l’Utilisateur et nous.
+
+13. Modification des CGU
+
 Nous nous réservons le droit de modifier ces CGU à tout moment.
-En cas de changements importants, vous serez informé directement via l’application ou par email.
 
-10. Contact
-Pour toute question ou demande d’information, vous pouvez nous contacter à l’adresse suivante :
+Les nouvelles CGU entreront en vigueur 7 jours après leur publication dans l’Application ou sur notre site web.
+
+Si vous n’acceptez pas les modifications, vous devez cesser d’utiliser l’Application avant la date d’entrée en vigueur.
+
+14. Loi applicable et attribution de juridiction
+
+Ces CGU sont soumises au droit français.
+
+En cas de litige, et après tentative de résolution amiable, les tribunaux compétents seront :
+
+Pour un Utilisateur professionnel : le Tribunal de Commerce de [ville].
+
+Pour un Utilisateur consommateur : le tribunal du lieu de résidence de l’Utilisateur, si celui-ci relève du ressort d’une juridiction française.
+
+15. Mentions légales
+
+Éditeur : [Ton nom complet ou raison sociale si tu es enregistré]
+
+Représentant légal : si tu es mineur, préciser le nom de ton représentant légal et son lien de parenté.
+
+Adresse : [Adresse postale complète ou celle de ton représentant légal]
+
+Email : dzvellox@gmail.com
+
+Hébergeur : [Par exemple, Firebase Hosting ou tout autre service, avec coordonnées]
+
+16. Contact
+Pour toute question, réclamation ou exercice de vos droits, merci de nous contacter à :
 📧 dzvellox@gmail.com
+Adresse postale : [ton adresse ]
