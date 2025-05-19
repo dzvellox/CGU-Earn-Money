@@ -34,11 +34,12 @@ Supabase : pour le traitement de certaines données.
 
 ipwho.is : pour estimer votre pays via votre adresse IP.
 
+L’application peut contenir des publicités ou des liens qui redirigent vers des sites web tiers externes. Nous ne contrôlons pas ces sites externes et ne pouvons être tenus responsables de leur contenu ou de leur politique de confidentialité.
+
 La liste des partenaires susceptibles d’être impliqués dans la médiation publicitaire d’AdMob est consultable à cette adresse :
-Unity ads 
+Unity ads
 
-Chaque service est soumis à ses propres conditions d’utilisation et politiques de confidentialité, que vous acceptez en utilisant cette application..
-
+Chaque service est soumis à ses propres conditions d’utilisation et politiques de confidentialité, que vous acceptez en utilisant cette application.
 4. Localisation via l’adresse IP
 Nous utilisons votre adresse IP uniquement pour estimer votre pays et adapter certaines offres ou fonctionnalités.
 Aucune géolocalisation GPS n’est effectuée.
