@@ -233,15 +233,13 @@ Pour un Utilisateur consommateur : le tribunal du lieu de résidence de l’Util
 
 15. Mentions légales
 
-Éditeur : [Ton nom complet ou raison sociale si tu es enregistré]
-
-Représentant légal : si tu es mineur, préciser le nom de ton représentant légal et son lien de parenté.
+Éditeur : Darkzvellox
 
 Adresse : [Adresse postale complète ou celle de ton représentant légal]
 
 Email : dzvellox@gmail.com
 
-Hébergeur : [Par exemple, Firebase Hosting ou tout autre service, avec coordonnées]
+Hébergeur : Firebase , SupaBase
 
 16. Contact
 Pour toute question, réclamation ou exercice de vos droits, merci de nous contacter à :
