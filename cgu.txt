@@ -4,7 +4,7 @@ Dernière mise à jour : 19 mai 2025
 1. Définitions
 Dans les présentes Conditions Générales d’Utilisation :
 
-« Application » désigne l’application mobile [Nom de ton appli] publiée sur Google Play et/ou App Store.
+« Application » désigne l’application mobile Earn Money publiée sur Google Play et/ou App Store.
 
 « Vous » ou « Utilisateur » désigne toute personne physique ou morale utilisant l’Application.
 
@@ -68,7 +68,9 @@ Toute exploitation commerciale non autorisée est prohibée.
 
 L’Application utilise des SDK et API de services tels que Firebase (Google LLC), Supabase, AdMob (Google LLC), ipwho.is, etc.
 
-Chaque service tiers est régi par sa propre politique de confidentialité et ses conditions d’utilisation [liens à insérer]. Vous les acceptez tacitement en utilisant l’Application.
+Chaque service tiers est régi par sa propre politique de confidentialité et ses conditions d’utilisation https://supabase.com/privacy ; https://supabase.com/terms ;https://policies.google.com/privacy ;https://developers.google.com/admob/terms ; https://policies.google.com/privacy ;https://firebase.google.com/terms ; https://ipwhois.io/privacy/ ; https://ipwhois.io/terms/
+
+. Vous les acceptez tacitement en utilisant l’Application.
 
 6.2. Publicités et médiation
 
