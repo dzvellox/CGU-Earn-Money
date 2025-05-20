@@ -180,7 +180,7 @@ L’Utilisateur reconnaît utiliser l’Application à ses risques et périls.
 En cas de dommage direct prouvé, notre responsabilité totale est limitée au montant des éventuels frais de transaction facturés sur l’Application (ou, à défaut, une somme forfaitaire de 50 €).
 
 10. Indemnisation
-Vous vous engagez à indemniser et défendre [Nom de ton appli] contre toute réclamation, action ou procédure résultant de :
+Vous vous engagez à indemniser et défendre Earn Money contre toute réclamation, action ou procédure résultant de :
 
 Votre utilisation non conforme de l’Application.
 
