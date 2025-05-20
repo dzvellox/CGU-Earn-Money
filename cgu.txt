@@ -68,7 +68,7 @@ Toute exploitation commerciale non autorisée est prohibée.
 
 L’Application utilise des SDK et API de services tels que Firebase (Google LLC), Supabase, AdMob (Google LLC), ipwho.is, etc.
 
-Chaque service tiers est régi par sa propre politique de confidentialité et ses conditions d’utilisation https://supabase.com/privacy ; https://supabase.com/terms ;https://policies.google.com/privacy ;https://developers.google.com/admob/terms ; https://policies.google.com/privacy ;https://firebase.google.com/terms ; https://ipwhois.io/privacy/ ; https://ipwhois.io/terms/
+Chaque service tiers est régi par sa propre politique de confidentialité et ses conditions d’utilisation : https://supabase.com/privacy ; https://supabase.com/terms ;https://policies.google.com/privacy ;https://developers.google.com/admob/terms ; https://policies.google.com/privacy ;https://firebase.google.com/terms ; https://ipwhois.io/privacy/ ; https://ipwhois.io/terms/
 
 . Vous les acceptez tacitement en utilisant l’Application.
 
@@ -133,7 +133,7 @@ Droit d’opposition : vous opposer au traitement, pour motifs légitimes.
 Droit de retirer votre consentement : si le traitement est basé sur le consentement (publicité personnalisée).
 
 Pour exercer ces droits, envoyez un email à :
-📧 DPO@example.com (ou l’adresse que tu souhaites indiquer).
+📧 dzvellox@gmail.com
 Vous pouvez également introduire une réclamation auprès de la CNIL : www.cnil.fr.
 
 8. Récompenses et paiements
@@ -151,7 +151,7 @@ Vous devez communiquer votre adresse PayPal exacte et correspondante à votre id
 
 Les virements peuvent prendre jusqu’à 7 jours ouvrés après validation de la demande.
 
-Un montant minimum de [X €] pourra être requis pour initier un paiement.
+Un montant minimum de [5 €] pourra être requis pour initier un paiement.
 
 En cas de non-respect des règles ou suspicion de fraude, nous nous réservons le droit de refuser, annuler ou rétrograder un paiement.
 
