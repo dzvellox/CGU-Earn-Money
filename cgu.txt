@@ -237,13 +237,10 @@ Pour un Utilisateur consommateur : le tribunal du lieu de résidence de l’Util
 
 Éditeur : Darkzvellox
 
-Adresse : [Adresse postale complète ou celle de ton représentant légal]
-
-Email : dzvellox@gmail.com
+Email : contact.earnmoney.app@gmail.com
 
 Hébergeur : Firebase , SupaBase
 
 16. Contact
 Pour toute question, réclamation ou exercice de vos droits, merci de nous contacter à :
-📧 dzvellox@gmail.com
-Adresse postale : [ton adresse ]
+📧 contact.earnmoney.app@gmail.com
